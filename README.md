@@ -18,8 +18,4 @@ Este é um programa simples em Python que usa a biblioteca `qrcode` para gerar u
 
 Após a execução do código, você encontrará um arquivo 'QRcode.png' no mesmo diretório, que contém o código QR para a URL fornecida.
 
-## Notas
-
-- Certifique-se de que você tem a biblioteca `Pillow` instalada, pois ela é necessária para salvar o QR Code como uma imagem. Caso não a tenha instalada, você pode fazê-lo com o comando `pip install pillow`.
-
 Agora você pode gerar QR Codes para as URLs de sua escolha de forma simples e rápida!
